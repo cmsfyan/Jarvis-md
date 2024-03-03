@@ -4,7 +4,7 @@
     "description": "Jarvis Multi Device whatsappbot",
     "logo": "https://i.imgur.com/PmfMtfa.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/cmsfyan/Jarvis-md",
     "website": "https://github.com/Loki-Xer/Jarvis",
     "success_url": "https://github.com/Loki-Xer/Jarvis",
     "stack": "container",
